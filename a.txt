@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 Once upon a time there lives a king called Akbar. He was such a great king that he was called an emperor. Akbar lived in a huge palace in Delhi.
+=======
+Once upon a time there lives a king called Akbar.
+>>>>>>> parent of 1c74a77... second commit
